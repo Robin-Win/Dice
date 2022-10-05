@@ -53,7 +53,6 @@ void roll()
           //your code here
           dice = (int)((Math.random())*6+1);
           sum = sum + dice;
-          System.out.println(sum);
 
 
       }
